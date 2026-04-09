@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Usuario {
+private class Usuario {
     String nome;
     ArrayList<Playlist> playlists = new ArrayList<>();
 
